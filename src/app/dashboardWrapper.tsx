@@ -4,4 +4,4 @@ const DashboardWrapper = ({children}:{children:React.ReactNode}) => {
   )
 }
 
-export default DashboardWrapper
+export default DashboardWrapper 
